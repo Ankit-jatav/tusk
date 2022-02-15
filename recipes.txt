@@ -5,6 +5,7 @@ welcome to our kitchen
 kher
 pasta
 dal fry
-
+beans
+pizza
 
 Thank you
